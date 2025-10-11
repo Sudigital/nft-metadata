@@ -1,0 +1,66 @@
+{
+  "name": "#62",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/62.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Coolantier"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Owner"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Red Noble"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meditative"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jack Blazer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dapper Lip"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Box Hair"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Holo Harmony"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Visor Pro"
+    }
+  ],
+  "properties": {
+    "edition": 62,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/62.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

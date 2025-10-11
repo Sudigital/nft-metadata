@@ -1,0 +1,66 @@
+{
+  "name": "#32",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/32.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lime Glide"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Player"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Normie"
+    },
+    {
+      "trait_type": " Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Retonator"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Quid Rythm"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sing Strand"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Justeece"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lips"
+    }
+  ],
+  "properties": {
+    "edition": 32,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/32.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

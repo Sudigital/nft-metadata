@@ -1,0 +1,66 @@
+{
+  "name": "#26",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/26.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Amber Twilight"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Player"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Cyborg"
+    },
+    {
+      "trait_type": " Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "The Rampart Vest"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Vasca"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "13Th Frieza"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Eye Of The Phoenix"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dynamouth"
+    }
+  ],
+  "properties": {
+    "edition": 26,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/26.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

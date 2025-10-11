@@ -1,0 +1,66 @@
+{
+  "name": "#23",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/23.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Citrus Haze"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Player"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Normie"
+    },
+    {
+      "trait_type": " Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Retonator"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "The Earfeus"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Morning Banshee"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Spacer"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Co-3"
+    }
+  ],
+  "properties": {
+    "edition": 23,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/23.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

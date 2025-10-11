@@ -1,0 +1,79 @@
+{
+  "name": "SUDIGITAL #1",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT #1 - A unique digital collectible from the SUDIGITAL ecosystem featuring viral memer characteristics with emerald frost background.",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/1.png",
+  "external_url": "https://sudigital.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Emerald Frost"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Memer"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Viral"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Jheens"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "The TWS"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Electricut"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Data Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wine Connoisseur"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "1"
+    },
+    {
+      "trait_type": "Max Shares",
+      "value": "500"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "SUDIGITAL Genesis"
+    }
+  ],
+  "properties": {
+    "edition": 1,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7zsunv4pLAzVWGCQts2k266TYJuLJfMvHcMbcRSR8xqf",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

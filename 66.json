@@ -1,0 +1,66 @@
+{
+  "name": "#66",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/66.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Candy"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Owner"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Blue Noble"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Moon Touched Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Elven Dread"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Quid Rythm"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Visor Pro"
+    }
+  ],
+  "properties": {
+    "edition": 66,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/66.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

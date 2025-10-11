@@ -1,0 +1,66 @@
+{
+  "name": "#31",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/31.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mystic Holo"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Player"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Normie"
+    },
+    {
+      "trait_type": " Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thoughtful"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Ginger Hook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Peecky"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Baba"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Syrup"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cybernatic Scout"
+    }
+  ],
+  "properties": {
+    "edition": 31,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/31.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

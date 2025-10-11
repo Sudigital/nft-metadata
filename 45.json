@@ -1,0 +1,58 @@
+{
+  "name": "#45",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/45.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lapinkie"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Engineer"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meditative"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Celestial Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "The Zappa"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shortside Part Hair"
+    }
+  ],
+  "properties": {
+    "edition": 45,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/45.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

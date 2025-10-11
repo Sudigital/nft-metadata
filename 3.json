@@ -1,0 +1,66 @@
+{
+  "name": "#3",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/3.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Candy"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Memer"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Influencer"
+    },
+    {
+      "trait_type": " Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "The Rampart Vest"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Tungsten Piercing"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Side X"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cybernatic Scout"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Iron Guard"
+    }
+  ],
+  "properties": {
+    "edition": 3,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

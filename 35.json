@@ -1,0 +1,62 @@
+{
+  "name": "#35",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/35.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Coolantier"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Trader"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Analyst"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Rebels Jack Vest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tech Tribe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pious Mohawk"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Eye Of The Phoenix"
+    }
+  ],
+  "properties": {
+    "edition": 35,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/35.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

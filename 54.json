@@ -1,0 +1,58 @@
+{
+  "name": "#54",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/54.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pretty Venom"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Builder"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Architect"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Fate Bearer Coat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothbrush"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Box Hair"
+    }
+  ],
+  "properties": {
+    "edition": 54,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/54.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

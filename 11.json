@@ -1,0 +1,66 @@
+{
+  "name": "#11",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/11.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pretty Venom"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Memer"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Influencer"
+    },
+    {
+      "trait_type": " Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meditative"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "The Ninja"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wine Connoisseur"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Fringe"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Vasca"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Madizzy"
+    }
+  ],
+  "properties": {
+    "edition": 11,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/11.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2VNKqH3aL3xQkZGZ7wj3F6GWZ5E6VSovs3svLesaxwCo",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}

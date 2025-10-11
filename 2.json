@@ -1,0 +1,75 @@
+{
+  "name": "SUDIGITAL #2",
+  "symbol": "SUDIGITAL",
+  "description": "Super Digital NFT #2 - A unique digital collectible from the SUDIGITAL ecosystem featuring worker characteristics with cosmic blue background.",
+  "seller_fee_basis_points": 100,
+  "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/2.png",
+  "external_url": "https://sudigital.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cosmic Blue"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Worker"
+    },
+    {
+      "trait_type": "Race",
+      "value": "Digital"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Work Gear"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Practical"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Determined"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Steady"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "2"
+    },
+    {
+      "trait_type": "Max Shares",
+      "value": "200"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "SUDIGITAL Genesis"
+    }
+  ],
+  "properties": {
+    "edition": 2,
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7zsunv4pLAzVWGCQts2k266TYJuLJfMvHcMbcRSR8xqf",
+        "share": 100
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+}
