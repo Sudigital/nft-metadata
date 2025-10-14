@@ -1,13 +1,13 @@
 {
   "name": "#11",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/11.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pretty Venom"
+      "value": "Chrome District"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Influencer"
+      "value": "Viral Sensation"
     },
     {
-      "trait_type": " Gender",
+      "trait_type": "Gender",
       "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Ninja"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Wine Connoisseur"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Spiky Fringe"
+      "value": "Ginger Hook"
     },
     {
       "trait_type": "Ear",
-      "value": "Vasca"
+      "value": "Syrup"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Buzz"
     },
     {
       "trait_type": "Face",
-      "value": "Madizzy"
+      "value": "Scientist Observing"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Galaxy Pirate"
     }
   ],
   "properties": {

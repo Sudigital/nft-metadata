@@ -1,13 +1,13 @@
 {
   "name": "#15",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/15.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach Horizon"
+      "value": "Data Haven"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Droid"
+      "value": "Nomad"
     },
     {
       "trait_type": "Gender",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
@@ -31,15 +31,19 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Tech Tribe"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "The Pacquito"
+      "value": "Underside Side"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Noise-Maker"
     },
     {
       "trait_type": "Face",
-      "value": "Cyber XS"
+      "value": "Nomad Scout Tactical"
     }
   ],
   "properties": {

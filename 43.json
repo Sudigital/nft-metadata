@@ -1,13 +1,13 @@
 {
   "name": "#43",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/43.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lime Glide"
+      "value": "System Hack"
     },
     {
       "trait_type": "Role",
@@ -27,19 +27,19 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Rebels Jack Vest"
+      "value": "Cyber Vogue"
     },
     {
       "trait_type": "Mouth",
-      "value": "The Cyberchip"
+      "value": "Tech Tribe"
     },
     {
       "trait_type": "Hair",
-      "value": "Pseudo Mohawk"
+      "value": "The Forelock Steel"
     },
     {
       "trait_type": "Face",
-      "value": "Power Pulse"
+      "value": "Market Scout Elite"
     }
   ],
   "properties": {

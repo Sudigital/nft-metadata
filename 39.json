@@ -1,13 +1,13 @@
 {
   "name": "#39",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/39.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Riser Range"
+      "value": "Matrix Code"
     },
     {
       "trait_type": "Role",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Race",
-      "value": "Whale"
+      "value": "Analyst"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,23 +27,19 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Magnus Pieces"
+      "value": "Pulse Crazy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Laughing"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "Dual Coil"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Tungsten Piercing"
+      "value": "Sharp Goldie"
     },
     {
       "trait_type": "Face",
-      "value": "Cybernatic Scout"
+      "value": "Market Scout Elite"
     }
   ],
   "properties": {

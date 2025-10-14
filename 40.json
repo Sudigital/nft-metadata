@@ -1,13 +1,13 @@
 {
   "name": "#40",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/40.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Indigo Blaze"
+      "value": "Tech Noir"
     },
     {
       "trait_type": "Role",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Race",
-      "value": "Whale"
+      "value": "Analyst"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,23 +27,19 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Silver Soul Vest"
+      "value": "The Chief Of Tranquilitys Vest"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "Transypher"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Quantum Beat"
+      "value": "Stocky Limited"
     },
     {
       "trait_type": "Face",
-      "value": "Neon Nex"
+      "value": "Market Scout Elite"
     }
   ],
   "properties": {

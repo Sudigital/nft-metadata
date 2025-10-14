@@ -1,13 +1,13 @@
 {
   "name": "#24",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/24.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "The Candy"
+      "value": "Net Runner"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Normie"
+      "value": "Pro Gamer Elite"
     },
     {
-      "trait_type": " Gender",
-      "value": "Female"
+      "trait_type": "Gender",
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Meditative"
     },
     {
       "trait_type": "Clothing",
-      "value": "Jheens"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Quid Rythm"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Lime Dread"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Cosmic Lasers"
+      "value": "Solar Tone"
     },
     {
       "trait_type": "Mouth",
-      "value": "Dynamouth"
+      "value": "Co-3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Underside"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Spacebeat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Neon Nex"
     }
   ],
   "properties": {

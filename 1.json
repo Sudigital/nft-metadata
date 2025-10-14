@@ -1,14 +1,13 @@
 {
-  "name": "SUDIGITAL #1",
+  "name": "#1",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/1.png",
-  "external_url": "https://sudigital.com",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Emerald Frost"
+      "value": "Cyber Mist"
     },
     {
       "trait_type": "Role",
@@ -16,47 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Viral"
+      "value": "Elite Influencer"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Jheens"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "The TWS"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Electricut"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Data Reader"
+      "value": "Ginger Hook"
     },
     {
       "trait_type": "Mouth",
-      "value": "Wine Connoisseur"
+      "value": "Laughing"
     },
     {
-      "trait_type": "Tier",
-      "value": "1"
+      "trait_type": "Hair",
+      "value": "Yaru"
     },
     {
-      "trait_type": "Max Shares",
-      "value": "500"
+      "trait_type": "Ear",
+      "value": "Syrup"
     },
     {
-      "trait_type": "Collection",
-      "value": "SUDIGITAL Genesis"
+      "trait_type": "Face",
+      "value": "Eye Of The Phoenix"
     }
   ],
   "properties": {
@@ -74,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "SUDIGITAL Generator"
+    "compiler": "HashLips Art Engine"
   }
 }

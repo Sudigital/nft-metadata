@@ -1,13 +1,13 @@
 {
   "name": "#35",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/35.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Coolantier"
+      "value": "Shadow Net"
     },
     {
       "trait_type": "Role",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,19 +27,19 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Rebels Jack Vest"
+      "value": "Cyber Vogue"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tech Tribe"
+      "value": "The Cyberchip"
     },
     {
       "trait_type": "Hair",
-      "value": "Pious Mohawk"
+      "value": "13Th Frieza"
     },
     {
       "trait_type": "Face",
-      "value": "Eye Of The Phoenix"
+      "value": "Purple Profit Tint"
     }
   ],
   "properties": {

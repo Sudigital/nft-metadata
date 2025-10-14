@@ -1,13 +1,13 @@
 {
   "name": "#23",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/23.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Citrus Haze"
+      "value": "Net Runner"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Normie"
+      "value": "Pro Gamer Elite"
     },
     {
-      "trait_type": " Gender",
-      "value": "Female"
+      "trait_type": "Gender",
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Retonator"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "The Earfeus"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Morning Banshee"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Spacer"
+      "value": "The Ninja"
     },
     {
       "trait_type": "Mouth",
-      "value": "Co-3"
+      "value": "Gaotee"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fringe"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Spacebeat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cybersight"
     }
   ],
   "properties": {

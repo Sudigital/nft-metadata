@@ -1,13 +1,13 @@
 {
   "name": "#36",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/36.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Midnight Sapphire"
+      "value": "Neural Interface"
     },
     {
       "trait_type": "Role",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Magnus Pieces"
+      "value": "The Chief Of Tranquilitys Vest"
     },
     {
       "trait_type": "Mouth",
@@ -35,11 +35,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Angel Touch"
+      "value": "The Forelock Steel"
     },
     {
       "trait_type": "Face",
-      "value": "Purp Tint"
+      "value": "Power Trading Pulse"
     }
   ],
   "properties": {

@@ -1,13 +1,13 @@
 {
   "name": "#47",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/47.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Peach Horizon"
+      "value": "Cyber Grid"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Engineer"
+      "value": "Chief Engineer"
     },
     {
       "trait_type": "Gender",
@@ -23,19 +23,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Laughing"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Maviar"
+      "value": "Pure Honor Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Thoughtful"
+      "value": "The Zappa"
     },
     {
       "trait_type": "Hair",
-      "value": "Dragon Scale Crop"
+      "value": "Box Hair"
     }
   ],
   "properties": {

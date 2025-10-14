@@ -1,13 +1,13 @@
 {
   "name": "#27",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/27.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Azure Breeze"
+      "value": "Binary Code"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Normie"
+      "value": "Elite Cyborg Gamer"
     },
     {
-      "trait_type": " Gender",
+      "trait_type": "Gender",
       "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Midnight Desolator"
+      "value": "Jheens"
     },
     {
       "trait_type": "Ear",
-      "value": "Tungsten Piercing"
+      "value": "Noise-Maker"
     },
     {
       "trait_type": "Hair",
-      "value": "Sidefaux"
+      "value": "Angel Touch"
     },
     {
       "trait_type": "Face",
-      "value": "Cybernatic Scout"
+      "value": "He Vee"
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Frost Master"
     }
   ],
   "properties": {

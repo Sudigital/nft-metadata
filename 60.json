@@ -1,13 +1,13 @@
 {
   "name": "#60",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/60.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Citrus Haze"
+      "value": "Glitch Art"
     },
     {
       "trait_type": "Role",
@@ -23,27 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Peach"
+      "value": "Moon Invaders Jacket"
     },
     {
       "trait_type": "Mouth",
-      "value": "Laughing"
+      "value": "Red Lips"
     },
     {
       "trait_type": "Hair",
-      "value": "Semi Wolf Hair"
+      "value": "Madam Queen"
     },
     {
       "trait_type": "Ear",
-      "value": "Noise Maker"
+      "value": "Cosmic Beat Amplifier"
     },
     {
       "trait_type": "Face",
-      "value": "Holo Lens"
+      "value": "Diamond Sovereign Specs"
     }
   ],
   "properties": {

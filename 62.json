@@ -1,13 +1,13 @@
 {
   "name": "#62",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/62.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Coolantier"
+      "value": "Net Runner"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Red Noble"
+      "value": "Natural Noble"
     },
     {
       "trait_type": "Gender",
@@ -23,27 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
-      "value": "Jack Blazer"
+      "value": "Sanctuary Guardian Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Dapper Lip"
+      "value": "Surprised"
     },
     {
       "trait_type": "Hair",
-      "value": "Box Hair"
+      "value": "The Rugs"
     },
     {
       "trait_type": "Ear",
-      "value": "Holo Harmony"
+      "value": "Holographic Harmony Stud"
     },
     {
       "trait_type": "Face",
-      "value": "Visor Pro"
+      "value": "Diamond Sovereign Specs"
     }
   ],
   "properties": {

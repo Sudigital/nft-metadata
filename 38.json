@@ -1,13 +1,13 @@
 {
   "name": "#38",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/38.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dreamee"
+      "value": "Neon Alley"
     },
     {
       "trait_type": "Role",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Suspender"
+      "value": "Rebel Vest"
     },
     {
       "trait_type": "Mouth",
@@ -35,11 +35,11 @@
     },
     {
       "trait_type": "Hair",
-      "value": "The Gluttony"
+      "value": "Pious Mohawk"
     },
     {
       "trait_type": "Face",
-      "value": "Cybernatic Scout"
+      "value": "Phoenix Market Vision"
     }
   ],
   "properties": {

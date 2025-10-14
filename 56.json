@@ -1,13 +1,13 @@
 {
   "name": "#56",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/56.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Emerald Frost"
+      "value": "Matrix Code"
     },
     {
       "trait_type": "Role",
@@ -19,31 +19,31 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
-    },
-    {
-      "trait_type": "Clothing",
-      "value": "Pure Honor Suit"
-    },
-    {
-      "trait_type": "Mouth",
       "value": "Normal"
     },
     {
+      "trait_type": "Clothing",
+      "value": "Neat Cuff"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
       "trait_type": "Hair",
-      "value": "Hamura Ki"
+      "value": "The Seraphic"
     },
     {
       "trait_type": "Ear",
-      "value": "Space Beat"
+      "value": "Platinum Noise Canceller"
     },
     {
       "trait_type": "Face",
-      "value": "Goertek"
+      "value": "Executive Pro Vision"
     }
   ],
   "properties": {

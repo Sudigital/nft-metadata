@@ -1,14 +1,13 @@
 {
-  "name": "SUDIGITAL #2",
+  "name": "#2",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/2.png",
-  "external_url": "https://sudigital.com",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cosmic Blue"
+      "value": "Pixel Storm"
     },
     {
       "trait_type": "Role",
@@ -16,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Digital"
+      "value": "Elite Influencer"
     },
     {
       "trait_type": "Gender",
@@ -24,35 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Focused"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Work Gear"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Practical"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Determined"
+      "value": "Solar Tone"
     },
     {
       "trait_type": "Mouth",
-      "value": "Steady"
+      "value": "Rebas Stacy"
     },
     {
-      "trait_type": "Tier",
-      "value": "2"
+      "trait_type": "Hair",
+      "value": "Textured Bowl"
     },
     {
-      "trait_type": "Max Shares",
-      "value": "200"
+      "trait_type": "Ear",
+      "value": "Vasca"
     },
     {
-      "trait_type": "Collection",
-      "value": "SUDIGITAL Genesis"
+      "trait_type": "Face",
+      "value": "The Father"
     }
   ],
   "properties": {
@@ -70,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "SUDIGITAL Generator"
+    "compiler": "HashLips Art Engine"
   }
 }

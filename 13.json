@@ -1,13 +1,13 @@
 {
   "name": "#13",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/13.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Midnight Sapphire"
+      "value": "Pixel Storm"
     },
     {
       "trait_type": "Role",
@@ -23,15 +23,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Meditative"
     },
     {
       "trait_type": "Clothing",
-      "value": "Magnus Pieces"
+      "value": "Pulse Crazy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
@@ -39,11 +39,11 @@
     },
     {
       "trait_type": "Ear",
-      "value": "Quid-Rythm"
+      "value": "Emporio Star"
     },
     {
       "trait_type": "Face",
-      "value": "Cybernatic Scout"
+      "value": "Neon Journey Nexus"
     }
   ],
   "properties": {

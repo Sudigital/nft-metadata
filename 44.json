@@ -1,13 +1,13 @@
 {
   "name": "#44",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/44.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Emerald Frost"
+      "value": "System Hack"
     },
     {
       "trait_type": "Role",
@@ -19,31 +19,31 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Thoughtful"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Magnus Pieces"
+      "value": "Holo Mesh"
     },
     {
       "trait_type": "Mouth",
-      "value": "Quant Equell"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
-      "value": "Dual Coil"
+      "value": "Underside"
     },
     {
       "trait_type": "Ear",
-      "value": "The Earfeus"
+      "value": "Quantum Beat"
     },
     {
       "trait_type": "Face",
-      "value": "Neon Nex"
+      "value": "Neon Wealth Nexus"
     }
   ],
   "properties": {

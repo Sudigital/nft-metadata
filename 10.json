@@ -1,13 +1,13 @@
 {
   "name": "#10",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/10.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Citrus Haze"
+      "value": "Augmented Mind"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Influencer"
+      "value": "Elite Influencer"
     },
     {
-      "trait_type": " Gender",
+      "trait_type": "Gender",
       "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solar Tone"
+      "value": "Slangstreet Jacket"
     },
     {
       "trait_type": "Mouth",
-      "value": "Co-3"
+      "value": "Vintage Pipe"
     },
     {
       "trait_type": "Hair",
-      "value": "Spike Hero"
+      "value": "Wild Kunoichi"
     },
     {
       "trait_type": "Ear",
-      "value": "Vasca"
+      "value": "Syrup"
     },
     {
       "trait_type": "Face",
-      "value": "He Vee"
+      "value": "Red Metrix"
     }
   ],
   "properties": {

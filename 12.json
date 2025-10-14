@@ -1,13 +1,13 @@
 {
   "name": "#12",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/12.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Coolantier"
+      "value": "Blade Runner"
     },
     {
       "trait_type": "Role",
@@ -15,31 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Droid"
+      "value": "Nomad"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Voltage Wear"
+      "value": "The Chief Of Tranquilitys Vest"
     },
     {
       "trait_type": "Mouth",
-      "value": "Plasma Suction Mask"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
-      "value": "Surprisedkish"
+      "value": "Spike Hero"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Tungsten Piercing"
     },
     {
       "trait_type": "Face",
-      "value": "Cyber XS"
+      "value": "Nomad Trap Detector"
     }
   ],
   "properties": {

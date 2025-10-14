@@ -1,13 +1,13 @@
 {
   "name": "#29",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/29.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Coolantier"
+      "value": "Cyber Nexus"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Cyborg"
+      "value": "Pro Gamer Elite"
     },
     {
-      "trait_type": " Gender",
+      "trait_type": "Gender",
       "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Jheens"
+      "value": "Retonator"
     },
     {
       "trait_type": "Ear",
-      "value": "Nigma Beat"
+      "value": "Tungsten Piercing"
     },
     {
       "trait_type": "Hair",
-      "value": "13Th Frieza"
+      "value": "Buzz"
     },
     {
       "trait_type": "Face",
-      "value": "Cybernatic Scout"
+      "value": "Justeece"
     },
     {
       "trait_type": "Mouth",
-      "value": "Space Villain Mask"
+      "value": "Jaw Of Power"
     }
   ],
   "properties": {

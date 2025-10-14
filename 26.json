@@ -1,13 +1,13 @@
 {
   "name": "#26",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/26.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Amber Twilight"
+      "value": "Shadow Net"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Cyborg"
+      "value": "Pro Gamer Elite"
     },
     {
-      "trait_type": " Gender",
-      "value": "Female"
+      "trait_type": "Gender",
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Rampart Vest"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Vasca"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "13Th Frieza"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Eye Of The Phoenix"
+      "value": "Venomeer"
     },
     {
       "trait_type": "Mouth",
-      "value": "Dynamouth"
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Tiny Dim Hair"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "The TWS"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Miner Besty"
     }
   ],
   "properties": {

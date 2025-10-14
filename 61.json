@@ -1,13 +1,13 @@
 {
   "name": "#61",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/61.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Squash Synth"
+      "value": "Tech Mesh"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Red Noble"
+      "value": "Blue Noble"
     },
     {
       "trait_type": "Gender",
@@ -31,19 +31,19 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "The Rugs"
+      "value": "Dragon Scale Crop"
     },
     {
       "trait_type": "Ear",
-      "value": "Space Beat"
+      "value": "Diamond Spike Elite"
     },
     {
       "trait_type": "Face",
-      "value": "The Quest"
+      "value": "Sapphire Bubble Luxury"
     }
   ],
   "properties": {

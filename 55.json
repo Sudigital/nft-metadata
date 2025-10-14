@@ -1,13 +1,13 @@
 {
   "name": "#55",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/55.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Coolantier"
+      "value": "Net Runner"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Engineer"
+      "value": "Master Architect"
     },
     {
       "trait_type": "Gender",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
@@ -31,11 +31,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Laughing"
     },
     {
       "trait_type": "Hair",
-      "value": "Semi Wolf Hair"
+      "value": "Aquasynth"
     }
   ],
   "properties": {

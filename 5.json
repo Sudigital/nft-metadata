@@ -1,13 +1,13 @@
 {
   "name": "#5",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/5.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dreamee"
+      "value": "Digital Rain"
     },
     {
       "trait_type": "Role",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Race",
-      "value": "Viral"
+      "value": "Elite Influencer"
     },
     {
-      "trait_type": " Gender",
-      "value": "Male"
+      "trait_type": "Gender",
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
@@ -27,15 +27,15 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Venomeer"
+      "value": "Solartone"
     },
     {
       "trait_type": "Ear",
-      "value": "Nigma Beat"
+      "value": "The Earfeus"
     },
     {
       "trait_type": "Hair",
-      "value": "Buzz Island"
+      "value": "Dokonimo"
     },
     {
       "trait_type": "Face",
@@ -43,7 +43,7 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Dynamouth"
     }
   ],
   "properties": {

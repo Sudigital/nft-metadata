@@ -1,13 +1,13 @@
 {
   "name": "#66",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/66.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "The Candy"
+      "value": "Data Haven"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Blue Noble"
+      "value": "Red Noble"
     },
     {
       "trait_type": "Gender",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Meditative"
     },
     {
       "trait_type": "Clothing",
-      "value": "Moon Touched Suit"
+      "value": "Ruby Wine Waist Coat"
     },
     {
       "trait_type": "Mouth",
@@ -35,15 +35,15 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Elven Dread"
+      "value": "Semi Wolf Hair"
     },
     {
       "trait_type": "Ear",
-      "value": "Quid Rythm"
+      "value": "Quantum Rhythm Enhancer"
     },
     {
       "trait_type": "Face",
-      "value": "Visor Pro"
+      "value": "Vive Executive Pro"
     }
   ],
   "properties": {

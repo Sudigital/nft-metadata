@@ -1,13 +1,13 @@
 {
   "name": "#3",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/3.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "The Candy"
+      "value": "Tech Mesh"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Influencer"
+      "value": "Elite Influencer"
     },
     {
-      "trait_type": " Gender",
+      "trait_type": "Gender",
       "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Rampart Vest"
+      "value": "Retonator"
     },
     {
       "trait_type": "Ear",
-      "value": "Tungsten Piercing"
+      "value": "Vasca"
     },
     {
       "trait_type": "Hair",
-      "value": "Side X"
+      "value": "Sidefaux"
     },
     {
       "trait_type": "Face",
-      "value": "Cybernatic Scout"
+      "value": "The Father"
     },
     {
       "trait_type": "Mouth",
-      "value": "Iron Guard"
+      "value": "Peecky"
     }
   ],
   "properties": {

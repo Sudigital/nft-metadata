@@ -1,13 +1,13 @@
 {
   "name": "#64",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/64.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Midnight Sapphire"
+      "value": "Pixel Storm"
     },
     {
       "trait_type": "Role",
@@ -15,15 +15,15 @@
     },
     {
       "trait_type": "Race",
-      "value": "Red Noble"
+      "value": "Natural Noble"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
@@ -31,19 +31,19 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Gaotee Beard"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
-      "value": "Dragon Scale Crop"
+      "value": "Aquasynth"
     },
     {
       "trait_type": "Ear",
-      "value": "Noise Maker"
+      "value": "Cosmic Beat Amplifier"
     },
     {
       "trait_type": "Face",
-      "value": "Visor Pro"
+      "value": "Executive Pro Vision"
     }
   ],
   "properties": {

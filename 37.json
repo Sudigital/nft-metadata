@@ -1,13 +1,13 @@
 {
   "name": "#37",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/37.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Amber Twilight"
+      "value": "Neural Interface"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Whale"
+      "value": "Analyst"
     },
     {
       "trait_type": "Gender",
@@ -27,23 +27,19 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyber Vogue"
+      "value": "Vest"
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "The Cyberchip"
     },
     {
       "trait_type": "Hair",
-      "value": "Spiky"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Emporio Star"
+      "value": "13Th Frieza"
     },
     {
       "trait_type": "Face",
-      "value": "Neon Nex"
+      "value": "Financial Foresight Lens"
     }
   ],
   "properties": {

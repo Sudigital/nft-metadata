@@ -1,13 +1,13 @@
 {
   "name": "#33",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/33.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Mystic Holo"
+      "value": "Digital Void"
     },
     {
       "trait_type": "Role",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Race",
-      "value": "Cyborg"
+      "value": "Pro Gamer Elite"
     },
     {
-      "trait_type": " Gender",
-      "value": "Female"
+      "trait_type": "Gender",
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Retonator"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Syrup"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "The Pacquito"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Beam Visor"
+      "value": "Slangstreet Jacket"
     },
     {
       "trait_type": "Mouth",
-      "value": "Kooler"
+      "value": "Jaw Of Power"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Vasca"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Data Reader"
     }
   ],
   "properties": {

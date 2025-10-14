@@ -1,13 +1,13 @@
 {
   "name": "#19",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/19.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Amber Twilight"
+      "value": "Synth Wave"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Droid"
+      "value": "Nomad"
     },
     {
       "trait_type": "Gender",
@@ -27,19 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Silver Soul Vest"
+      "value": "Magnus Pieces"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tech Tribe"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "Angel Touch"
+      "value": "Remo Mane"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "The Earfeus"
     },
     {
       "trait_type": "Face",
-      "value": "Cyber XS"
+      "value": "Nomad Trap Detector"
     }
   ],
   "properties": {

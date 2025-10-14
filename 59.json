@@ -1,13 +1,13 @@
 {
   "name": "#59",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/59.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Coolantier"
+      "value": "Electric Sheep"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Red Noble"
+      "value": "Blue Noble"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "Ruby Wine Waist Coat"
+      "value": "Sanctuary Guardian Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Classic Pipe"
     },
     {
       "trait_type": "Hair",
-      "value": "Retroish Droid"
+      "value": "The Slick Slime"
     },
     {
       "trait_type": "Ear",
-      "value": "Space Beat"
+      "value": "Quantum Rhythm Enhancer"
     },
     {
       "trait_type": "Face",
-      "value": "Su Glasses"
+      "value": "Executive Pro Vision"
     }
   ],
   "properties": {

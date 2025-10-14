@@ -1,13 +1,13 @@
 {
   "name": "#63",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/63.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Midnight Sapphire"
+      "value": "Data Stream"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Red Noble"
+      "value": "Blue Noble"
     },
     {
       "trait_type": "Gender",
@@ -23,27 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "Infinite Wealth Suit"
+      "value": "Joker"
     },
     {
       "trait_type": "Mouth",
-      "value": "Gaotee Beard"
+      "value": "Toothbrush"
     },
     {
       "trait_type": "Hair",
-      "value": "The Rugs"
+      "value": "Flat Top Hair"
     },
     {
       "trait_type": "Ear",
-      "value": "Noise Maker"
+      "value": "Cosmic Beat Amplifier"
     },
     {
       "trait_type": "Face",
-      "value": "Visor Pro"
+      "value": "The Legendary Quest Visor"
     }
   ],
   "properties": {

@@ -1,13 +1,13 @@
 {
   "name": "#49",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/49.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lapinkie"
+      "value": "Ghost Protocol"
     },
     {
       "trait_type": "Role",
@@ -15,19 +15,19 @@
     },
     {
       "trait_type": "Race",
-      "value": "Architect"
+      "value": "Chief Engineer"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "Pure Honor Suit"
+      "value": "Harley"
     },
     {
       "trait_type": "Mouth",
@@ -35,7 +35,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Fr Crop"
+      "value": "Retroish Droid"
     }
   ],
   "properties": {

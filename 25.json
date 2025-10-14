@@ -1,13 +1,13 @@
 {
   "name": "#25",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/25.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Coral Cascade"
+      "value": "Neon Alley"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Normie"
+      "value": "Pro Gamer Elite"
     },
     {
-      "trait_type": " Gender",
-      "value": "Male"
+      "trait_type": "Gender",
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laughing"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solar Tone"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Jaw Of Power"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Wild Kunoichi"
+      "value": "Solartone"
     },
     {
       "trait_type": "Ear",
-      "value": "Syrup"
+      "value": "The Earfeus"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Choso"
     },
     {
       "trait_type": "Face",
-      "value": "Clank Vision"
+      "value": "Purp Tint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Co-3"
     }
   ],
   "properties": {

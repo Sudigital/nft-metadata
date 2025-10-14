@@ -1,13 +1,13 @@
 {
   "name": "#8",
   "symbol": "SUDIGITAL",
-  "description": "Super Digital NFT",
+  "description": "Super Digital",
   "seller_fee_basis_points": 100,
   "image": "https://raw.githubusercontent.com/Sudigital/nft-metadata/main/8.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Midnight Sapphire"
+      "value": "Quantum Flux"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Influencer"
+      "value": "Viral Sensation"
     },
     {
-      "trait_type": " Gender",
+      "trait_type": "Gender",
       "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laughing"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Slangstreet Jacket"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Peecky"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Buzz"
+      "value": "Midnight Desolator"
     },
     {
       "trait_type": "Ear",
-      "value": "The TWS"
+      "value": "Noise-Maker"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Pacquito"
     },
     {
       "trait_type": "Face",
-      "value": "Data Reader"
+      "value": "Punk Widelens"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Co-3"
     }
   ],
   "properties": {
