@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Digital Rain"
+      "value": "Code Breaker"
     },
     {
       "trait_type": "Role",
@@ -23,27 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Slangstreet Jacket"
+      "value": "Ginger Hook"
     },
     {
       "trait_type": "Mouth",
-      "value": "The Dark Saber"
+      "value": "Laughing"
     },
     {
       "trait_type": "Hair",
-      "value": "Tiny Dim Hair"
+      "value": "Fringe"
     },
     {
       "trait_type": "Ear",
-      "value": "Spacebeat"
+      "value": "Quid Rythm"
     },
     {
       "trait_type": "Face",
-      "value": "Born Leader"
+      "value": "Eye Of Aergia"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

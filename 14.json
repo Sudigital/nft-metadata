@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shadow Net"
+      "value": "Circuit Board"
     },
     {
       "trait_type": "Role",
@@ -15,31 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Droid"
+      "value": "Nomad"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Chief Of Tranquilitys Vest"
+      "value": "Rebels Jack Vest"
     },
     {
       "trait_type": "Mouth",
-      "value": "Plasma Suction Mask"
+      "value": "Quant Equell"
     },
     {
       "trait_type": "Hair",
-      "value": "The Forelock Steel"
+      "value": "Spike Hero"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Noise-Maker"
     },
     {
       "trait_type": "Face",
-      "value": "Industrial Cybersight"
+      "value": "Neon Journey Nexus"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

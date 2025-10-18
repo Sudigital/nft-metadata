@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pixel Storm"
+      "value": "Glitch Art"
     },
     {
       "trait_type": "Role",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Race",
-      "value": "Natural Noble"
+      "value": "Red Noble"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Fate Bearer Coat"
+      "value": "Justice Fighting Suit"
     },
     {
       "trait_type": "Mouth",
@@ -35,7 +35,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Aquasynth"
+      "value": "Flat Top Hair"
     },
     {
       "trait_type": "Ear",
@@ -43,7 +43,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Executive Pro Vision"
+      "value": "Natural Elegance"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

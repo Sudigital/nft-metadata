@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Digital Void"
+      "value": "Neon Glow"
     },
     {
       "trait_type": "Role",
@@ -19,31 +19,31 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Solitude Suit"
+      "value": "The Braveleap"
     },
     {
       "trait_type": "Mouth",
-      "value": "Whisker Wave"
+      "value": "Laughing"
     },
     {
       "trait_type": "Hair",
-      "value": "Fr Crop"
+      "value": "The Seraphic"
     },
     {
       "trait_type": "Ear",
-      "value": "Vampire Lord Fang"
+      "value": "Tungsten Royalty Pierce"
     },
     {
       "trait_type": "Face",
-      "value": "Natural Elegance"
+      "value": "SuDigital Founder Edition"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

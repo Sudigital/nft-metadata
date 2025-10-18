@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Data Haven"
+      "value": "Digital Void"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Red Noble"
+      "value": "Blue Noble"
     },
     {
       "trait_type": "Gender",
@@ -23,27 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
-      "value": "Ruby Wine Waist Coat"
+      "value": "Sanctuary Guardian Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Laughing"
     },
     {
       "trait_type": "Hair",
-      "value": "Semi Wolf Hair"
+      "value": "Aquasynth"
     },
     {
       "trait_type": "Ear",
-      "value": "Quantum Rhythm Enhancer"
+      "value": "The Orpheus Platinum"
     },
     {
       "trait_type": "Face",
-      "value": "Vive Executive Pro"
+      "value": "Sapphire Bubble Luxury"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neural Interface"
+      "value": "Net Runner"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Analyst"
+      "value": "Whale"
     },
     {
       "trait_type": "Gender",
@@ -23,23 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "Vest"
+      "value": "Pulse Crazy"
     },
     {
       "trait_type": "Mouth",
-      "value": "The Cyberchip"
+      "value": "Laughing"
     },
     {
       "trait_type": "Hair",
-      "value": "13Th Frieza"
+      "value": "Wild Kunoichi"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Quantum Beat"
     },
     {
       "trait_type": "Face",
-      "value": "Financial Foresight Lens"
+      "value": "Neon Wealth Nexus"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

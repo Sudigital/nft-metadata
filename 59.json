@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Electric Sheep"
+      "value": "Dark Web"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Blue Noble"
+      "value": "Natural Noble"
     },
     {
       "trait_type": "Gender",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Sanctuary Guardian Suit"
+      "value": "Justice Fighting Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Classic Pipe"
+      "value": "Dapper Lip"
     },
     {
       "trait_type": "Hair",
-      "value": "The Slick Slime"
+      "value": "Box Hair"
     },
     {
       "trait_type": "Ear",
-      "value": "Quantum Rhythm Enhancer"
+      "value": "Cosmic Beat Amplifier"
     },
     {
       "trait_type": "Face",
-      "value": "Executive Pro Vision"
+      "value": "The Legendary Quest Visor"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

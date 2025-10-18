@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Tech Mesh"
+      "value": "Matrix Code"
     },
     {
       "trait_type": "Role",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Race",
-      "value": "Blue Noble"
+      "value": "Red Noble"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Jack Blazer"
+      "value": "Virtue Dress"
     },
     {
       "trait_type": "Mouth",
@@ -35,15 +35,15 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Dragon Scale Crop"
+      "value": "Rubysynth"
     },
     {
       "trait_type": "Ear",
-      "value": "Diamond Spike Elite"
+      "value": "Cosmic Beat Amplifier"
     },
     {
       "trait_type": "Face",
-      "value": "Sapphire Bubble Luxury"
+      "value": "Executive Pro Vision"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

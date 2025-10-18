@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Tech Noir"
+      "value": "Augmented Mind"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Chief Engineer"
+      "value": "Master Architect"
     },
     {
       "trait_type": "Gender",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
@@ -31,11 +31,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Surprised"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
-      "value": "Rubysynth"
+      "value": "Retroish Droid"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

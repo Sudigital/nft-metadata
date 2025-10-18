@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Digital Void"
+      "value": "Data Stream"
     },
     {
       "trait_type": "Role",
@@ -19,31 +19,31 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Ginger Hook"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Fire Breather"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Spiky Fringe"
+      "value": "Seasonal Worker Vest"
     },
     {
       "trait_type": "Ear",
-      "value": "Noise-Maker"
+      "value": "Tungsten Piercing"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "The Choso"
     },
     {
       "trait_type": "Face",
-      "value": "Data Reader"
+      "value": "Samsung Gear"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Iron Guard"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

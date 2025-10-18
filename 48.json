@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "System Hack"
+      "value": "Neural Interface"
     },
     {
       "trait_type": "Role",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
@@ -27,15 +27,15 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Fate Bearer Coat"
+      "value": "Neat Cuff"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Surprised"
     },
     {
       "trait_type": "Hair",
-      "value": "Hamura Ki"
+      "value": "The Seraphic"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

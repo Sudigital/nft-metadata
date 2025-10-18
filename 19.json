@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Synth Wave"
+      "value": "Pixel Storm"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Nomad"
+      "value": "Droid"
     },
     {
       "trait_type": "Gender",
@@ -31,19 +31,15 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Plasma Suction Mask"
     },
     {
       "trait_type": "Hair",
-      "value": "Remo Mane"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "The Earfeus"
+      "value": "Buzz Island"
     },
     {
       "trait_type": "Face",
-      "value": "Nomad Trap Detector"
+      "value": "Droid Scout Tactical"
     }
   ],
   "properties": {
@@ -61,6 +57,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

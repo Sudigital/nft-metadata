@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Net Runner"
+      "value": "Chrome District"
     },
     {
       "trait_type": "Role",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Sanctuary Guardian Suit"
+      "value": "Virtue Dress"
     },
     {
       "trait_type": "Mouth",
-      "value": "Surprised"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "The Rugs"
+      "value": "Half Pixie"
     },
     {
       "trait_type": "Ear",
-      "value": "Holographic Harmony Stud"
+      "value": "Quantum Rhythm Enhancer"
     },
     {
       "trait_type": "Face",
-      "value": "Diamond Sovereign Specs"
+      "value": "Executive Authority Lens"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

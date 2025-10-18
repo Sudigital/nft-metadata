@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Quantum Flux"
+      "value": "Dark Web"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Viral Sensation"
+      "value": "Elite Influencer"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "Midnight Desolator"
+      "value": "Usagee"
     },
     {
       "trait_type": "Ear",
-      "value": "Noise-Maker"
+      "value": "The TWS"
     },
     {
       "trait_type": "Hair",
-      "value": "The Pacquito"
+      "value": "Dokemi"
     },
     {
       "trait_type": "Face",
-      "value": "Punk Widelens"
+      "value": "Data Reader"
     },
     {
       "trait_type": "Mouth",
-      "value": "Co-3"
+      "value": "Space Villain Mask"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ghost Protocol"
+      "value": "Cyber Mist"
     },
     {
       "trait_type": "Role",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Race",
-      "value": "Chief Engineer"
+      "value": "Master Architect"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,15 +27,15 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Harley"
+      "value": "The Solitude Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Imperial Beard"
     },
     {
       "trait_type": "Hair",
-      "value": "Retroish Droid"
+      "value": "The Slick Slime"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

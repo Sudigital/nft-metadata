@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Tech Mesh"
+      "value": "Cyber Punk"
     },
     {
       "trait_type": "Role",
@@ -19,31 +19,31 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laughing"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
-      "value": "Retonator"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Vasca"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Sidefaux"
-    },
-    {
-      "trait_type": "Face",
-      "value": "The Father"
+      "value": "The Rampart Vest"
     },
     {
       "trait_type": "Mouth",
-      "value": "Peecky"
+      "value": "Vintage Pipe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Buzz"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Quid Rythm"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Plasma Container"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

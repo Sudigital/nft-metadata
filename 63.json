@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Data Stream"
+      "value": "Matrix Code"
     },
     {
       "trait_type": "Role",
@@ -15,27 +15,27 @@
     },
     {
       "trait_type": "Race",
-      "value": "Blue Noble"
+      "value": "Natural Noble"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laughing"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Joker"
+      "value": "Angels Aventail"
     },
     {
       "trait_type": "Mouth",
-      "value": "Toothbrush"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
-      "value": "Flat Top Hair"
+      "value": "Cloroph"
     },
     {
       "trait_type": "Ear",
@@ -43,7 +43,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "The Legendary Quest Visor"
+      "value": "Executive Pro Vision"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

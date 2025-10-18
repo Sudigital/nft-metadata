@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Binary Code"
+      "value": "Circuit Board"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Elite Cyborg Gamer"
+      "value": "Pro Gamer Elite"
     },
     {
       "trait_type": "Gender",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Jheens"
+      "value": "Seasonal Worker Vest"
     },
     {
       "trait_type": "Ear",
-      "value": "Noise-Maker"
+      "value": "Quid Rythm"
     },
     {
       "trait_type": "Hair",
-      "value": "Angel Touch"
+      "value": "Amber Harmony"
     },
     {
       "trait_type": "Face",
-      "value": "He Vee"
+      "value": "Token Detector"
     },
     {
       "trait_type": "Mouth",
-      "value": "Frost Master"
+      "value": "The Dark Saber"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

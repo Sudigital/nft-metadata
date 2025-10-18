@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Tech Noir"
+      "value": "Neon Glow"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Red Noble"
+      "value": "Natural Noble"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sanctuary Guardian Suit"
+      "value": "Infinite Wealth Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Surprised"
+      "value": "Laughing"
     },
     {
       "trait_type": "Hair",
-      "value": "Madam Queen"
+      "value": "Flat Top Hair"
     },
     {
       "trait_type": "Ear",
-      "value": "Quantum Rhythm Enhancer"
+      "value": "Cosmic Beat Amplifier"
     },
     {
       "trait_type": "Face",
-      "value": "Executive Pro Vision"
+      "value": "SuDigital Founder Edition"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

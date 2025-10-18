@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cyber Mist"
+      "value": "Shadow Net"
     },
     {
       "trait_type": "Role",
@@ -23,19 +23,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
-    },
-    {
-      "trait_type": "Clothing",
-      "value": "Virtue Dress"
-    },
-    {
-      "trait_type": "Mouth",
       "value": "Normal"
     },
     {
+      "trait_type": "Clothing",
+      "value": "The Braveleap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lips"
+    },
+    {
       "trait_type": "Hair",
-      "value": "The Piled Up"
+      "value": "Shelly Part"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

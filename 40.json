@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Tech Noir"
+      "value": "Data Haven"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Analyst"
+      "value": "Whale"
     },
     {
       "trait_type": "Gender",
@@ -23,23 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Chief Of Tranquilitys Vest"
+      "value": "Holo Mesh"
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Laughing"
     },
     {
       "trait_type": "Hair",
-      "value": "Stocky Limited"
+      "value": "The Forelock Steel"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Tungsten Piercing"
     },
     {
       "trait_type": "Face",
-      "value": "Market Scout Elite"
+      "value": "Whale Trap Luxury"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

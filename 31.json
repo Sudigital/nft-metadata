@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Binary Code"
+      "value": "Electric Sheep"
     },
     {
       "trait_type": "Role",
@@ -15,19 +15,19 @@
     },
     {
       "trait_type": "Race",
-      "value": "Elite Cyborg Gamer"
+      "value": "Pro Gamer Elite"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nebula Leotards"
+      "value": "Usagee"
     },
     {
       "trait_type": "Ear",
@@ -35,15 +35,15 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Buzz"
+      "value": "Lone Ranger"
     },
     {
       "trait_type": "Face",
-      "value": "Plasma Container"
+      "value": "Red Metrix"
     },
     {
       "trait_type": "Mouth",
-      "value": "Co-3"
+      "value": "Iron Guard"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

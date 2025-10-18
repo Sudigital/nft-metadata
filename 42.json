@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Electric Sheep"
+      "value": "Matrix Code"
     },
     {
       "trait_type": "Role",
@@ -15,15 +15,15 @@
     },
     {
       "trait_type": "Race",
-      "value": "Analyst"
+      "value": "Whale"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
@@ -31,15 +31,19 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Tech Tribe"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Hair",
-      "value": "Sharp Goldie"
+      "value": "Fringe"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Emporio Star"
     },
     {
       "trait_type": "Face",
-      "value": "CyberAnalyst Pro"
+      "value": "CyberWhale Platinum"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

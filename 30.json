@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Net Runner"
+      "value": "Synth Wave"
     },
     {
       "trait_type": "Role",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Retonator"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "The Earfeus"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Long Dokonimo"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Code Reader"
+      "value": "Slangstreet Jacket"
     },
     {
       "trait_type": "Mouth",
-      "value": "Dynamouth"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Kunoichi"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Spacebeat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Clank Vision"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

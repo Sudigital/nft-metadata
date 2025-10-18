@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "System Hack"
+      "value": "Neon Glow"
     },
     {
       "trait_type": "Role",
@@ -15,19 +15,19 @@
     },
     {
       "trait_type": "Race",
-      "value": "Analyst"
+      "value": "Whale"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Suspender"
+      "value": "Holo Mesh"
     },
     {
       "trait_type": "Mouth",
@@ -35,11 +35,15 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Buzz Island"
+      "value": "Underside Side"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Quantum Beat"
     },
     {
       "trait_type": "Face",
-      "value": "Phoenix Market Vision"
+      "value": "Whale Vision Deluxe"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

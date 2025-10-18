@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Quantum Flux"
+      "value": "Electric Sheep"
     },
     {
       "trait_type": "Role",
@@ -23,27 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Chief Of Tranquilitys Vest"
+      "value": "Pulse Crazy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "Cortexer"
+      "value": "Underside Side"
     },
     {
       "trait_type": "Ear",
-      "value": "Quid-Rythm"
+      "value": "Quantum Beat"
     },
     {
       "trait_type": "Face",
-      "value": "CyberNomad Explorer"
+      "value": "Journey Data Reader"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

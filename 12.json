@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Blade Runner"
+      "value": "Synth Wave"
     },
     {
       "trait_type": "Role",
@@ -23,19 +23,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Chief Of Tranquilitys Vest"
+      "value": "Magnus Pieces"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "The Guardian Of Justice"
     },
     {
       "trait_type": "Hair",
-      "value": "Spike Hero"
+      "value": "The Gluttony"
     },
     {
       "trait_type": "Ear",
@@ -43,7 +43,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Nomad Trap Detector"
+      "value": "CyberNomad Explorer"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

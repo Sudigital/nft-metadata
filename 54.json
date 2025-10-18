@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Tech Noir"
+      "value": "Net Runner"
     },
     {
       "trait_type": "Role",
@@ -23,19 +23,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Laughing"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
-      "value": "Justice Fighting Suit"
+      "value": "Pure Honor Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Classic Pipe"
+      "value": "Toothbrush"
     },
     {
       "trait_type": "Hair",
-      "value": "Side Layer Hair"
+      "value": "Shortside Part Hair"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

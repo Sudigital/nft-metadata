@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Whale"
+      "value": "Analyst"
     },
     {
       "trait_type": "Gender",
@@ -23,27 +23,23 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Holo Mesh"
+      "value": "The Chief Of Tranquilitys Vest"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Plasma Suction Mask"
     },
     {
       "trait_type": "Hair",
-      "value": "Underside"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Quantum Beat"
+      "value": "The Forelock Steel"
     },
     {
       "trait_type": "Face",
-      "value": "Neon Wealth Nexus"
+      "value": "Phoenix Market Vision"
     }
   ],
   "properties": {
@@ -61,6 +57,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

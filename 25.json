@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neon Alley"
+      "value": "Virtual Reality"
     },
     {
       "trait_type": "Role",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Solartone"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "The Earfeus"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "The Choso"
-    },
-    {
-      "trait_type": "Face",
-      "value": "Purp Tint"
+      "value": "Slangstreet Jacket"
     },
     {
       "trait_type": "Mouth",
-      "value": "Co-3"
+      "value": "Arctic Cool"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fringe"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Quid Rythm"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber XR"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

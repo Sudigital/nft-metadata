@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Chrome District"
+      "value": "Cyber Mist"
     },
     {
       "trait_type": "Role",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Ginger Hook"
+      "value": "Jheens"
     },
     {
       "trait_type": "Ear",
-      "value": "Syrup"
+      "value": "Vasca"
     },
     {
       "trait_type": "Hair",
-      "value": "Buzz"
+      "value": "13Th Frieza"
     },
     {
       "trait_type": "Face",
-      "value": "Scientist Observing"
+      "value": "Geek Glasses"
     },
     {
       "trait_type": "Mouth",
-      "value": "Galaxy Pirate"
+      "value": "Space Villain Mask"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

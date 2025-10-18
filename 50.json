@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shadow Net"
+      "value": "Augmented Mind"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Master Architect"
+      "value": "Chief Engineer"
     },
     {
       "trait_type": "Gender",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Virtue Dress"
+      "value": "Moon Touched Suit"
     },
     {
       "trait_type": "Mouth",
@@ -35,7 +35,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Retroish Droid"
+      "value": "Half Pixie"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

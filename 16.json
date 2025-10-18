@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Net Runner"
+      "value": "Tech Mesh"
     },
     {
       "trait_type": "Role",
@@ -27,19 +27,19 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Vest"
+      "value": "Voltage Wear"
     },
     {
       "trait_type": "Mouth",
-      "value": "Quant Equell"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "Stocky Limited"
+      "value": "Spike Hero"
     },
     {
       "trait_type": "Ear",
-      "value": "Virtuevibe"
+      "value": "Quid-Rythm"
     },
     {
       "trait_type": "Face",
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

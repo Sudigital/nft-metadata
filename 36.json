@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neural Interface"
+      "value": "Digital Rain"
     },
     {
       "trait_type": "Role",
@@ -15,31 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Analyst"
+      "value": "Whale"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Chief Of Tranquilitys Vest"
+      "value": "Pulse Crazy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Plasma Suction Mask"
+      "value": "Neon Haze"
     },
     {
       "trait_type": "Hair",
-      "value": "The Forelock Steel"
+      "value": "Bonfire"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Tungsten Piercing"
     },
     {
       "trait_type": "Face",
-      "value": "Power Trading Pulse"
+      "value": "Whale Scout Premium"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Ghost Protocol"
+      "value": "Virtual Reality"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,35 @@
     },
     {
       "trait_type": "Race",
-      "value": "Viral Sensation"
+      "value": "Elite Influencer"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Meditative"
     },
     {
       "trait_type": "Clothing",
-      "value": "Midnight Desolator"
+      "value": "Seasonal Worker Vest"
     },
     {
       "trait_type": "Ear",
-      "value": "Nigma Beat"
+      "value": "Emporio Star"
     },
     {
       "trait_type": "Hair",
-      "value": "Buzz Island"
+      "value": "Spiky Fringe"
     },
     {
       "trait_type": "Face",
-      "value": "Cybernatic Scout"
+      "value": "Neon Nex"
     },
     {
       "trait_type": "Mouth",
-      "value": "Kaneki"
+      "value": "Normal"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

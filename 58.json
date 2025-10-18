@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Virtual Reality"
+      "value": "Ghost Protocol"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Red Noble"
+      "value": "Blue Noble"
     },
     {
       "trait_type": "Gender",
@@ -23,19 +23,19 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Braveleap"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Mystique Leaf"
     },
     {
       "trait_type": "Hair",
-      "value": "Cyberceleste"
+      "value": "Half Pixie"
     },
     {
       "trait_type": "Ear",
@@ -43,7 +43,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Executive Pro Vision"
+      "value": "Goertek Prestige Edition"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

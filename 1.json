@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cyber Mist"
+      "value": "Cyber Punk"
     },
     {
       "trait_type": "Role",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Ginger Hook"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Laughing"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Yaru"
+      "value": "Usagee"
     },
     {
       "trait_type": "Ear",
-      "value": "Syrup"
+      "value": "Quid Rythm"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sing Strand"
     },
     {
       "trait_type": "Face",
-      "value": "Eye Of The Phoenix"
+      "value": "Code Reader"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dynamouth"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

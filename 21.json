@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Augmented Mind"
+      "value": "Ghost Protocol"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Droid"
+      "value": "Nomad"
     },
     {
       "trait_type": "Gender",
@@ -27,19 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Holo Mesh"
+      "value": "Voltage Wear"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tech Tribe"
+      "value": "Surprised"
     },
     {
       "trait_type": "Hair",
-      "value": "The Forelock Steel"
+      "value": "Fringe"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Quantum Beat"
     },
     {
       "trait_type": "Face",
-      "value": "CyberDroid Industrial"
+      "value": "Neon Journey Nexus"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

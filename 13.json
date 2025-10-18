@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pixel Storm"
+      "value": "Binary Code"
     },
     {
       "trait_type": "Role",
@@ -15,35 +15,31 @@
     },
     {
       "trait_type": "Race",
-      "value": "Nomad"
+      "value": "Droid"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Normal"
     },
     {
       "trait_type": "Clothing",
-      "value": "Pulse Crazy"
+      "value": "Cyber Vogue"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Tech Tribe"
     },
     {
       "trait_type": "Hair",
-      "value": "Dual Coil"
-    },
-    {
-      "trait_type": "Ear",
-      "value": "Emporio Star"
+      "value": "The Pacquito"
     },
     {
       "trait_type": "Face",
-      "value": "Neon Journey Nexus"
+      "value": "Droid Scout Tactical"
     }
   ],
   "properties": {
@@ -61,6 +57,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

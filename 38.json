@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Neon Alley"
+      "value": "Data Haven"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Analyst"
+      "value": "Whale"
     },
     {
       "trait_type": "Gender",
@@ -23,23 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
-      "value": "Rebel Vest"
+      "value": "Cyber Vogue"
     },
     {
       "trait_type": "Mouth",
-      "value": "The Cyberchip"
+      "value": "Surprised"
     },
     {
       "trait_type": "Hair",
-      "value": "Pious Mohawk"
+      "value": "Fringe"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Holoharmony"
     },
     {
       "trait_type": "Face",
-      "value": "Phoenix Market Vision"
+      "value": "Whale Vision Deluxe"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

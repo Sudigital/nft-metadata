@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Data Haven"
+      "value": "Cyber Space"
     },
     {
       "trait_type": "Role",
@@ -23,23 +23,23 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Holo Mesh"
+      "value": "Pulse Crazy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Red Bitguard"
+      "value": "Laughing"
     },
     {
       "trait_type": "Hair",
-      "value": "Underside"
+      "value": "Spiky"
     },
     {
       "trait_type": "Ear",
-      "value": "Nigma Beat"
+      "value": "Quid-Rythm"
     },
     {
       "trait_type": "Face",
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

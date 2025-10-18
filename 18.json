@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Tech Mesh"
+      "value": "Code Breaker"
     },
     {
       "trait_type": "Role",
@@ -23,27 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Silver Soul Vest"
+      "value": "Suspender"
     },
     {
       "trait_type": "Mouth",
-      "value": "Normal"
+      "value": "Smile"
     },
     {
       "trait_type": "Hair",
-      "value": "Dual Coil"
+      "value": "Spiky Fringe"
     },
     {
       "trait_type": "Ear",
-      "value": "Quantum Beat"
+      "value": "Quid-Rythm"
     },
     {
       "trait_type": "Face",
-      "value": "Nomad Scout Tactical"
+      "value": "Natural Nomad Vision"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

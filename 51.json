@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Web"
+      "value": "Code Breaker"
     },
     {
       "trait_type": "Role",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Race",
-      "value": "Chief Engineer"
+      "value": "Master Architect"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
@@ -27,15 +27,15 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Jack Blazer"
+      "value": "The Braveleap"
     },
     {
       "trait_type": "Mouth",
-      "value": "The Zappa"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Hair",
-      "value": "Flat Top Hair"
+      "value": "Shelly Part"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

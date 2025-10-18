@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cyber Grid"
+      "value": "Blade Runner"
     },
     {
       "trait_type": "Role",
@@ -15,27 +15,27 @@
     },
     {
       "trait_type": "Race",
-      "value": "Chief Engineer"
+      "value": "Master Architect"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Meditative"
     },
     {
       "trait_type": "Clothing",
-      "value": "The Braveleap"
+      "value": "Infinite Wealth Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "Surprised"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "Shelly Part"
+      "value": "The Slick Slime"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

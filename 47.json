@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Cyber Grid"
+      "value": "Circuit Board"
     },
     {
       "trait_type": "Role",
@@ -19,23 +19,23 @@
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Happy"
+      "value": "Thoughtful"
     },
     {
       "trait_type": "Clothing",
-      "value": "Pure Honor Suit"
+      "value": "Justice Fighting Suit"
     },
     {
       "trait_type": "Mouth",
-      "value": "The Zappa"
+      "value": "Mystique Leaf"
     },
     {
       "trait_type": "Hair",
-      "value": "Box Hair"
+      "value": "Shelly Part"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

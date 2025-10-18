@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pixel Storm"
+      "value": "Data Stream"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Elite Influencer"
+      "value": "Viral Sensation"
     },
     {
       "trait_type": "Gender",
@@ -27,23 +27,23 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Solar Tone"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Rebas Stacy"
-    },
-    {
-      "trait_type": "Hair",
-      "value": "Textured Bowl"
+      "value": "Thieves Cuff"
     },
     {
       "trait_type": "Ear",
       "value": "Vasca"
     },
     {
+      "trait_type": "Hair",
+      "value": "Faux"
+    },
+    {
       "trait_type": "Face",
-      "value": "The Father"
+      "value": "Eye Of The Phoenix"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frost Master"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

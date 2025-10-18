@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Matrix Code"
+      "value": "Digital Rain"
     },
     {
       "trait_type": "Role",
@@ -15,31 +15,31 @@
     },
     {
       "trait_type": "Race",
-      "value": "Natural Noble"
+      "value": "Red Noble"
     },
     {
       "trait_type": "Gender",
-      "value": "Female"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Meditative"
     },
     {
       "trait_type": "Clothing",
-      "value": "Neat Cuff"
+      "value": "Bean"
     },
     {
       "trait_type": "Mouth",
-      "value": "Laughing"
+      "value": "Cigar"
     },
     {
       "trait_type": "Hair",
-      "value": "The Seraphic"
+      "value": "Side Layer Hair"
     },
     {
       "trait_type": "Ear",
-      "value": "Platinum Noise Canceller"
+      "value": "Holographic Harmony Stud"
     },
     {
       "trait_type": "Face",
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

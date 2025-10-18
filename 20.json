@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Electric Sheep"
+      "value": "Tech Mesh"
     },
     {
       "trait_type": "Role",
@@ -23,23 +23,23 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Meditative"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "Voltage Wear"
+      "value": "Chucky"
     },
     {
       "trait_type": "Mouth",
-      "value": "Neon Haze"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "Underside Side"
+      "value": "Spiky Baba"
     },
     {
       "trait_type": "Ear",
-      "value": "The Earfeus"
+      "value": "Quantum Beat"
     },
     {
       "trait_type": "Face",
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

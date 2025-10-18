@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Augmented Mind"
+      "value": "Virtual Reality"
     },
     {
       "trait_type": "Role",
@@ -23,15 +23,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Laughing"
     },
     {
       "trait_type": "Clothing",
-      "value": "Slangstreet Jacket"
+      "value": "Venomeer"
     },
     {
       "trait_type": "Mouth",
-      "value": "Vintage Pipe"
+      "value": "Wine Connoisseur"
     },
     {
       "trait_type": "Hair",
@@ -39,11 +39,11 @@
     },
     {
       "trait_type": "Ear",
-      "value": "Syrup"
+      "value": "The Earfeus"
     },
     {
       "trait_type": "Face",
-      "value": "Red Metrix"
+      "value": "He Vee"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shadow Net"
+      "value": "Synth Wave"
     },
     {
       "trait_type": "Role",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Race",
-      "value": "Analyst"
+      "value": "Whale"
     },
     {
       "trait_type": "Gender",
@@ -23,23 +23,27 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
+      "value": "Meditative"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyber Vogue"
+      "value": "The Chief Of Tranquilitys Vest"
     },
     {
       "trait_type": "Mouth",
-      "value": "The Cyberchip"
+      "value": "Normal"
     },
     {
       "trait_type": "Hair",
-      "value": "13Th Frieza"
+      "value": "Faux"
+    },
+    {
+      "trait_type": "Ear",
+      "value": "Quid-Rythm"
     },
     {
       "trait_type": "Face",
-      "value": "Purple Profit Tint"
+      "value": "Market Data Crown"
     }
   ],
   "properties": {
@@ -57,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

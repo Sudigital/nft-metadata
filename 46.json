@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Circuit Board"
+      "value": "Chrome District"
     },
     {
       "trait_type": "Role",
@@ -15,27 +15,27 @@
     },
     {
       "trait_type": "Race",
-      "value": "Chief Engineer"
+      "value": "Master Architect"
     },
     {
       "trait_type": "Gender",
-      "value": "Male"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Normal"
-    },
-    {
-      "trait_type": "Clothing",
-      "value": "The Solitude Suit"
-    },
-    {
-      "trait_type": "Mouth",
       "value": "Thoughtful"
     },
     {
+      "trait_type": "Clothing",
+      "value": "The Braveleap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Lips"
+    },
+    {
       "trait_type": "Hair",
-      "value": "Side Layer Hair"
+      "value": "Madam Queen"
     }
   ],
   "properties": {
@@ -53,6 +53,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }

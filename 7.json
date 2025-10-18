@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Code Breaker"
+      "value": "Ghost Protocol"
     },
     {
       "trait_type": "Role",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "The Rampart Vest"
+      "value": "Retonator"
     },
     {
       "trait_type": "Ear",
@@ -35,15 +35,15 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Sing Strand"
+      "value": "Fringe"
     },
     {
       "trait_type": "Face",
-      "value": "Red Metrix"
+      "value": "Cybernatic Scout"
     },
     {
       "trait_type": "Mouth",
-      "value": "Galaxy Pirate"
+      "value": "Normal"
     }
   ],
   "properties": {
@@ -61,6 +61,6 @@
         "share": 100
       }
     ],
-    "compiler": "HashLips Art Engine"
+    "compiler": "Super Digital Art Engine"
   }
 }
